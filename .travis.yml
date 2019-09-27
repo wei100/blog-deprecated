@@ -9,6 +9,8 @@ branches:
 script:
   - hexo generate # generate static files
 deploy:
+  edge:
+    branch: v1.8.47
   provider: pages
   skip-cleanup: false
   github-token: $GH_TOKEN
