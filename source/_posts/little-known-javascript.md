@@ -1,7 +1,14 @@
 ---
 title: 鲜为人知的JavaScript功能
 date: 2019-09-29 10:56:15
+thumbnail: /thumbnails/little-known-javascript.jpg
+categories:
+- 技术
+	- JavaScript
 tags:
+- JavaScript
+- IIFE
+- ES6
 ---
 
 JavaScript 常被人说道：“入门容易，精通难” 的一门语言，这个我深以为然。这是因为 JavaScript 是一门非常古老且非常灵活的语言，充满神秘的语法和一些过时的特性使得JavaScript 难以掌控。截止今天我虽已使用JavaScript多年了，但是在开发过程中偶尔会被隐藏的语法和巧妙的编码方式所迷惑不解。
